@@ -15,6 +15,8 @@ Einfache Schaltung, um einen alten Schrittmotor als Dreh-Encoder zu verwenden.
     10µ 63V RM2.5                            2   C1, C2
     1N4148                                   4   D1..D4
     LED rot 3mm                              1   LED 1
+    Widerstand 2k2 1/4W                      2   R1, R4
+    Widerstand 33k 1/4W                      2   R3, R9
     Widerstand 1 kOhm 1/4W                   2   R8, R11                    
     Widerstand 470 Ohm 1/4W                  3   R2, R7, R10                    
     Widerstand 47 Ohm 1/4W                   2   R5, R6                   
